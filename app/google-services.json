@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "712654396858",
+    "firebase_url": "https://notdependence-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "notdependence",
+    "storage_bucket": "notdependence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712654396858:android:7a1bdb3b8db55b7e33d183",
+        "android_client_info": {
+          "package_name": "com.tony.notdependence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712654396858-l780ccsag2pjt4boe16akv1cc7f7pit4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tony.notdependence",
+            "certificate_hash": "b0d95fc5d5bcedd975d50631fd37569d6f09399d"
+          }
+        },
+        {
+          "client_id": "712654396858-ssmabjf1un1gsn5lk1dlblmtp8r1rf9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDybakLFbsXoGHfYedK4s8KDBqO37n_rEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712654396858-ssmabjf1un1gsn5lk1dlblmtp8r1rf9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
